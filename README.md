@@ -4,11 +4,10 @@
 
 ## 系统功能
 
-### 前台博客系统 http://localhost:7001
+### 前台博客系统
 
 **采用 Egg + Vue 服务端渲染**
 
-![](https://github.com/hubcarl/egg-typescript-element-kit/blob/master/docs/images/home.png)
 
 - 博客首页
 - 博客文章列表展示
@@ -19,7 +18,6 @@
 
 **采用 Egg + Vue + Vue-Router + Element 单页面服务端同构渲染**
 
-![](https://github.com/hubcarl/egg-typescript-element-kit/blob/master/docs/images/admin.png)
 
 - 用户登陆
 - 用户注册
@@ -32,8 +30,8 @@
 
 因该项目包含了多种实现, 提供多种例子实现，为防干扰, 特提供了两个纯净版本分支用于实际项目开发, 请自行选用。
 
-- Egg2 + Vue2 + Axios 多页面服务端渲染分支 [feature/green/multi](https://github.com/hubcarl/egg-vue-webpack-boilerplate/tree/feature/green/multi)
-- Egg2 + Vue2 + vue-router + vuex + axios 单页面服务端渲染分支 [feature/green/spa](https://github.com/hubcarl/egg-vue-webpack-boilerplate/tree/feature/green/spa)
+- Egg2 + Vue2 + Axios 多页面服务端渲染分支 [feature/green/multi]
+- Egg2 + Vue2 + vue-router + vuex + axios 单页面服务端渲染分支 [feature/green/spa]
 
 
 ## 版本
@@ -48,10 +46,6 @@
 - Egg + TypeScript 已初步支持， 包括 Node 端 typescript 编写 和 前端 TypeScript编写, 具体请见(https://github.com/hubcarl/egg-vue-typescript-boilerplate)项目
 - 项目开发之前, 请阅读[Egg + Vue 服务端渲染开发指南](https://zhuanlan.zhihu.com/p/30445536) 和 [Egg + Vue 服务端渲染工程化实现](https://zhuanlan.zhihu.com/p/29838551)
 - 版本变更情况请看发布版本说明[RELEASE](RELEASE.md) 
-- 如果你需要了解 Egg+Vue+Webpack 项目更多信息，请扫以下二维码加好友，请备注：Node.js
-- 骨架功能性需求或者Bug问题, 欢迎大家 PR 完善
-
-![hubcarl](https://avatars3.githubusercontent.com/u/4983042?v=4&u=0befb64a57a7911c630b7f97df5632385b08da2a&s=250)
 
 ## 文档
 
