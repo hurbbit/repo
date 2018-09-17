@@ -43,14 +43,15 @@
 
 ## 说明 
 
-- Egg + TypeScript 已初步支持， 包括 Node 端 typescript 编写 和 前端 TypeScript编写, 具体请见(https://github.com/hubcarl/egg-vue-typescript-boilerplate)项目
+- Egg + TypeScript 已初步支持， 包括 Node 端 typescript 编写 和 前端 TypeScript编写, 具体请见***项目
+<!-- - (https://github.com/hubcarl/egg-vue-typescript-boilerplate) -->
 - 项目开发之前, 请阅读[Egg + Vue 服务端渲染开发指南](https://zhuanlan.zhihu.com/p/30445536) 和 [Egg + Vue 服务端渲染工程化实现](https://zhuanlan.zhihu.com/p/29838551)
 - 版本变更情况请看发布版本说明[RELEASE](RELEASE.md) 
 
 ## 文档
 
-- http://hubcarl.github.io/easywebpack/vue/rule
-- https://zhuanlan.zhihu.com/easywebpack
+<!-- - http://hubcarl.github.io/easywebpack/vue/rule -->
+<!-- - https://zhuanlan.zhihu.com/easywebpack -->
 
 
 ## 1.特性
@@ -134,7 +135,8 @@ npm start
 ```
 
 
-详细打包部署请见： http://hubcarl.github.io/easywebpack/vue/dev/
+详细打包部署请见： 
+<!-- http://hubcarl.github.io/easywebpack/vue/dev/ -->
 
 ## 4. 配置说明(支持三种方式)
 
@@ -454,6 +456,6 @@ exports.index = function* (ctx) {
 - [koa和egg项目webpack内存编译和热更新实现](http://hubcarl.github.io/blog/2017/04/15/egg-webpack/)
 
 
-## License
+<!-- ## License
 
-[MIT](LICENSE)
+[MIT](LICENSE) -->
