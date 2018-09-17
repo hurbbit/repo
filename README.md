@@ -1,4 +1,5 @@
-# egg-vue-webpack-boilerplate
+<!-- # egg-vue-webpack-boilerplate -->
+# egg-vue
 
 基于 Egg + Vue + Webpack4 Server Side Render 工程项目，包括前台系统和后台管理系统
 
